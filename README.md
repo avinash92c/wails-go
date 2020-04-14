@@ -1,5 +1,8 @@
 # wails-go
+My Demo uses
 Vue FrontEnd + Golang Backend
+Also uses element-ui(https://element.eleme.io/) for Ui Components
+This is a simple demo with basic code, to check the library features and function
 
 Desktop Apps Library To Create Apps In Your Favourite Frontend library and Golang
 
