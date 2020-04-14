@@ -1,0 +1,18 @@
+{
+ "name": "First",
+ "description": "Enter your project description",
+ "author": {
+  "name": "AV",
+  "email": "avinash92c@gmail.com"
+ },
+ "version": "0.1.0",
+ "binaryname": "first.exe",
+ "frontend": {
+  "dir": "frontend",
+  "install": "npm install",
+  "build": "npm run build",
+  "bridge": "src",
+  "serve": "npm run serve"
+ },
+ "WailsVersion": ""
+}
