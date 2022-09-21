@@ -13,7 +13,7 @@
     "element-ui": "^2.4.5",
     "regenerator-runtime": "^0.13.3",
     "vue": "^2.5.22",
-    "vuetify": "^2.0.15"
+    "vuetify": "^2.6.10"
   },
   "devDependencies": {
     "@mdi/font": "^4.3.95",
